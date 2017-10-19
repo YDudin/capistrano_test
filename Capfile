@@ -1,7 +1,7 @@
 # Load DSL and set up stages
 require "capistrano/setup"
-require 'capistrano/rails'
-require 'capistrano/rvm'
+# require 'capistrano/rails'
+# require 'capistrano/rvm'
 
 # Include default deployment tasks
 require "capistrano/deploy"
